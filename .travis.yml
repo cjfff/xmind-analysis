@@ -3,4 +3,4 @@ node_js:
   - lts/*
 install:
   - yarn install # npm ci
-script: npm run docs:deploy
+script: npm run build
