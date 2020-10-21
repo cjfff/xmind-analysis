@@ -4,7 +4,7 @@
 set -e
 
 # 生成静态文件
-npm run build
+npm run build:gh-page
 
 
 mkdir temp_web
