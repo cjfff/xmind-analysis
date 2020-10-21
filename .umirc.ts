@@ -4,6 +4,7 @@ export default defineConfig({
   layout: {
     locale: false,
   },
+  publicPath: '/xmind-analysis/',
   base: '/xmind-analysis',
   nodeModulesTransform: {
     type: 'none',
